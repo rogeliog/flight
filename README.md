@@ -44,6 +44,13 @@ include the [standalone version](http://twitter.github.com/flight/flight.js) usi
 script tag then refer to [Using the standalone version](#using-the-standalone-version). This
 file is also available via [cdn.js](//cdnjs.cloudflare.com/ajax/libs/flight/1.0.9/flight.min.js)
 
+### Up and Running
+
+[Flight-generator](http://github.com/flightjs/generator-flight) is the easiest way to get started with a new Flight app.
+
+It is a Flight generator for [Yeoman](http://yeoman.io). It provides several sub-generators to easily scaffold component, mixin, page, and spec files for applications or standalone packages.
+
+
 ## Dependencies
 
 Flight uses [ES5-shim](https://github.com/kriskowal/es5-shim) to polyfill ES5 support for older browsers and [jQuery](http://jquery.com)
